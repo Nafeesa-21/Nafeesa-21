@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nafeesa Alibedi
-- 👀 I’m interested in Software Data Analyst
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/nafeesa-alibedi-503b82146/
